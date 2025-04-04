@@ -1,0 +1,25 @@
+R1,R2,SampleNumber,SampleID,Cell Line,Treatment,Replicate
+/proj/jraablab/users/share/NGS/883/HLF_NTC3_S3_R1_001.fastq.gz,NA,551,18,HLF,NTC,3
+/proj/jraablab/users/share/NGS/883/HLF_MEN1_KO3_S6_R1_001.fastq.gz,NA,548,15,HLF,MEN1-KO,3
+/proj/jraablab/users/share/NGS/883/HLF_d4_DMSO2_S14_R1_001.fastq.gz,NA,541,8,HLF,DMSO,2
+/proj/jraablab/users/share/NGS/883/HLF_d4_DMSO1_S13_R1_001.fastq.gz,NA,540,7,HLF,DMSO,1
+/proj/jraablab/users/share/NGS/883/HLF_NTC1_S1_R1_001.fastq.gz,NA,549,16,HLF,NTC,1
+/proj/jraablab/users/share/NGS/883/HLF_NTC2_S2_R1_001.fastq.gz,NA,550,17,HLF,NTC,2
+/proj/jraablab/users/share/NGS/883/HLF_d4_SNDX3_S18_R1_001.fastq.gz,NA,545,12,HLF,SNDX,3
+/proj/jraablab/users/share/NGS/883/HLF_MEN1_KO1_S4_R1_001.fastq.gz,NA,546,13,HLF,MEN1-KO,1
+/proj/jraablab/users/share/NGS/883/HLF_d4_SNDX2_S17_R1_001.fastq.gz,NA,544,11,HLF,SNDX,2
+/proj/jraablab/users/share/NGS/883/HLF_MEN1_KO2_S5_R1_001.fastq.gz,NA,547,14,HLF,MEN1-KO,2
+/proj/jraablab/users/share/NGS/883/HLF_d4_SNDX1_S16_R1_001.fastq.gz,NA,543,10,HLF,SNDX,1
+/proj/jraablab/users/share/NGS/883/HLF_d4_DMSO3_S15_R1_001.fastq.gz,NA,542,9,HLF,DMSO,3
+/proj/jraablab/users/share/NGS/1000_8/fastq/MD010_S10_R1_001.fastq.gz,NA,740,MD010,PLCPRF5,NTC,1
+/proj/jraablab/users/share/NGS/1000_8/fastq/MD011_S11_R1_001.fastq.gz,NA,741,MD011,PLCPRF5,NTC,2
+/proj/jraablab/users/share/NGS/1000_8/fastq/MD012_S12_R1_001.fastq.gz,NA,742,MD012,PLCPRF5,NTC,3
+/proj/jraablab/users/share/NGS/1000_8/fastq/MD013_S13_R1_001.fastq.gz,NA,743,MD013,PLCPRF5,MEN1-KO,1
+/proj/jraablab/users/share/NGS/1000_8/fastq/MD014_S14_R1_001.fastq.gz,NA,744,MD014,PLCPRF5,MEN1-KO,2
+/proj/jraablab/users/share/NGS/1000_8/fastq/MD015_S15_R1_001.fastq.gz,NA,745,MD015,PLCPRF5,MEN1-KO,3
+/proj/jraablab/users/share/NGS/1000_8/fastq/MD016_S16_R1_001.fastq.gz,NA,746,MD016,PLCPRF5,DMSO,1
+/proj/jraablab/users/share/NGS/1000_8/fastq/MD017_S17_R1_001.fastq.gz,NA,747,MD017,PLCPRF5,DMSO,2
+/proj/jraablab/users/share/NGS/1000_8/fastq/MD018_S18_R1_001.fastq.gz,NA,748,MD018,PLCPRF5,DMSO,3
+/proj/jraablab/users/share/NGS/1000_8/fastq/MD019_S19_R1_001.fastq.gz,NA,749,MD019,PLCPRF5,SNDX,1
+/proj/jraablab/users/share/NGS/1000_8/fastq/MD020_S20_R1_001.fastq.gz,NA,750,MD020,PLCPRF5,SNDX,2
+/proj/jraablab/users/share/NGS/1000_8/fastq/MD021_S21_R1_001.fastq.gz,NA,751,MD021,PLCPRF5,SNDX,3

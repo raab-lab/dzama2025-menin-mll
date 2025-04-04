@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Session genome="hg38" locus="chr18:31218733-31304763" nextAutoscaleGroup="86" version="8">
+    <Resources>
+        <Resource path="data/source_data/atac/bw/groupATAC_DMSO_mean.bw" type="bw"/>
+        <Resource path="data/source_data/cnr/bw/groupHLF_SNDX_NFYB_mean.bw" type="bw"/>
+        <Resource path="data/source_data/cnr/bw/groupHLF_DMSO_MLL1_mean.bw" type="bw"/>
+        <Resource path="data/source_data/cnr/bw/groupHLF_DMSO_H3K4me3_mean.bw" type="bw"/>
+        <Resource path="data/source_data/cnr/bw/groupHLF_DMSO_H3K27me3_mean.bw" type="bw"/>
+        <Resource path="data/source_data/atac/bw/groupATAC_SNDX_mean.bw" type="bw"/>
+        <Resource path="data/source_data/cnr/bw/groupHLF_DMSO_IgG_mean.bw" type="bw"/>
+        <Resource path="data/source_data/cnr/bw/groupHLF_SNDX_H3K27ac_mean.bw" type="bw"/>
+        <Resource path="data/source_data/cnr/bw/groupHLF_SNDX_MLL1_mean.bw" type="bw"/>
+        <Resource path="data/source_data/cnr/bw/groupHLF_DMSO_Menin_mean.bw" type="bw"/>
+        <Resource path="data/source_data/cnr/bw/groupHLF_SNDX_Menin_mean.bw" type="bw"/>
+        <Resource path="data/source_data/cnr/bw/groupHLF_SNDX_IgG_mean.bw" type="bw"/>
+        <Resource path="data/source_data/cnr/bw/groupHLF_SNDX_H3K27me3_mean.bw" type="bw"/>
+        <Resource path="data/source_data/cnr/bw/groupHLF_DMSO_NFYB_mean.bw" type="bw"/>
+        <Resource path="data/source_data/cnr/bw/groupHLF_SNDX_H3K4me3_mean.bw" type="bw"/>
+        <Resource path="data/source_data/cnr/bw/groupHLF_DMSO_H3K27ac_mean.bw" type="bw"/>
+    </Resources>
+    <Panel height="1405" name="DataPanel" width="3253">
+        <Track attributeKey="groupATAC_DMSO_mean.bw" autoScale="false" autoscaleGroup="37" clazz="org.broad.igv.track.DataSourceTrack" color="51,51,51" fontSize="10" height="44" id="/Users/jraab/proj/menin-mll/data/source_data/atac/bw/groupATAC_DMSO_mean.bw" name="groupATAC_DMSO_mean.bw" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="2.965073" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track attributeKey="groupATAC_SNDX_mean.bw" autoScale="false" autoscaleGroup="37" clazz="org.broad.igv.track.DataSourceTrack" color="51,51,51" fontSize="10" height="44" id="/Users/jraab/proj/menin-mll/data/source_data/atac/bw/groupATAC_SNDX_mean.bw" name="groupATAC_SNDX_mean.bw" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="2.965073" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track attributeKey="groupHLF_DMSO_H3K27ac_mean.bw" autoScale="false" autoscaleGroup="55" clazz="org.broad.igv.track.DataSourceTrack" color="0,204,204" fontSize="10" id="/Users/jraab/proj/menin-mll/data/source_data/cnr/bw/groupHLF_DMSO_H3K27ac_mean.bw" name="groupHLF_DMSO_H3K27ac_mean.bw" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="1.37402" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track attributeKey="groupHLF_SNDX_H3K27ac_mean.bw" autoScale="false" autoscaleGroup="55" clazz="org.broad.igv.track.DataSourceTrack" color="0,204,204" fontSize="10" id="/Users/jraab/proj/menin-mll/data/source_data/cnr/bw/groupHLF_SNDX_H3K27ac_mean.bw" name="groupHLF_SNDX_H3K27ac_mean.bw" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="1.37402" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track attributeKey="groupHLF_DMSO_H3K27me3_mean.bw" autoScale="false" autoscaleGroup="56" clazz="org.broad.igv.track.DataSourceTrack" color="204,0,102" fontSize="10" id="/Users/jraab/proj/menin-mll/data/source_data/cnr/bw/groupHLF_DMSO_H3K27me3_mean.bw" name="groupHLF_DMSO_H3K27me3_mean.bw" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="3.050478" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track attributeKey="groupHLF_SNDX_H3K27me3_mean.bw" autoScale="false" autoscaleGroup="56" clazz="org.broad.igv.track.DataSourceTrack" color="204,0,102" fontSize="10" id="/Users/jraab/proj/menin-mll/data/source_data/cnr/bw/groupHLF_SNDX_H3K27me3_mean.bw" name="groupHLF_SNDX_H3K27me3_mean.bw" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="3.050478" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track attributeKey="groupHLF_DMSO_H3K4me3_mean.bw" autoScale="false" autoscaleGroup="57" clazz="org.broad.igv.track.DataSourceTrack" color="0,153,0" fontSize="10" id="/Users/jraab/proj/menin-mll/data/source_data/cnr/bw/groupHLF_DMSO_H3K4me3_mean.bw" name="groupHLF_DMSO_H3K4me3_mean.bw" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="0.880469" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track attributeKey="groupHLF_SNDX_H3K4me3_mean.bw" autoScale="false" autoscaleGroup="57" clazz="org.broad.igv.track.DataSourceTrack" color="0,153,0" fontSize="10" id="/Users/jraab/proj/menin-mll/data/source_data/cnr/bw/groupHLF_SNDX_H3K4me3_mean.bw" name="groupHLF_SNDX_H3K4me3_mean.bw" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="0.880469" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track attributeKey="groupHLF_DMSO_Menin_mean.bw" autoScale="false" autoscaleGroup="58" clazz="org.broad.igv.track.DataSourceTrack" color="153,0,153" fontSize="10" id="/Users/jraab/proj/menin-mll/data/source_data/cnr/bw/groupHLF_DMSO_Menin_mean.bw" name="groupHLF_DMSO_Menin_mean.bw" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="1.209092" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track attributeKey="groupHLF_SNDX_Menin_mean.bw" autoScale="false" autoscaleGroup="58" clazz="org.broad.igv.track.DataSourceTrack" color="153,0,153" fontSize="10" id="/Users/jraab/proj/menin-mll/data/source_data/cnr/bw/groupHLF_SNDX_Menin_mean.bw" name="groupHLF_SNDX_Menin_mean.bw" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="1.209092" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track attributeKey="groupHLF_DMSO_MLL1_mean.bw" autoScale="false" autoscaleGroup="78" clazz="org.broad.igv.track.DataSourceTrack" color="0,153,204" fontSize="10" id="/Users/jraab/proj/menin-mll/data/source_data/cnr/bw/groupHLF_DMSO_MLL1_mean.bw" name="groupHLF_DMSO_MLL1_mean.bw" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="1.59779" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track attributeKey="groupHLF_SNDX_MLL1_mean.bw" autoScale="false" autoscaleGroup="78" clazz="org.broad.igv.track.DataSourceTrack" color="0,153,204" fontSize="10" id="/Users/jraab/proj/menin-mll/data/source_data/cnr/bw/groupHLF_SNDX_MLL1_mean.bw" name="groupHLF_SNDX_MLL1_mean.bw" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="1.59779" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track attributeKey="groupHLF_DMSO_NFYB_mean.bw" autoScale="false" autoscaleGroup="77" clazz="org.broad.igv.track.DataSourceTrack" color="204,51,0" fontSize="10" id="/Users/jraab/proj/menin-mll/data/source_data/cnr/bw/groupHLF_DMSO_NFYB_mean.bw" name="groupHLF_DMSO_NFYB_mean.bw" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="0.906251" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track attributeKey="groupHLF_SNDX_NFYB_mean.bw" autoScale="false" autoscaleGroup="77" clazz="org.broad.igv.track.DataSourceTrack" color="204,51,0" fontSize="10" id="/Users/jraab/proj/menin-mll/data/source_data/cnr/bw/groupHLF_SNDX_NFYB_mean.bw" name="groupHLF_SNDX_NFYB_mean.bw" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="0.906251" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track attributeKey="groupHLF_DMSO_IgG_mean.bw" autoScale="false" autoscaleGroup="78" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,0" fontSize="10" id="/Users/jraab/proj/menin-mll/data/source_data/cnr/bw/groupHLF_DMSO_IgG_mean.bw" name="groupHLF_DMSO_IgG_mean.bw" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="1.59779" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track attributeKey="groupHLF_SNDX_IgG_mean.bw" autoScale="false" autoscaleGroup="78" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,0" fontSize="10" id="/Users/jraab/proj/menin-mll/data/source_data/cnr/bw/groupHLF_SNDX_IgG_mean.bw" name="groupHLF_SNDX_IgG_mean.bw" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="1.59779" minimum="0.0" type="LINEAR"/>
+        </Track>
+    </Panel>
+    <Panel height="5780" name="FeaturePanel" width="3253">
+        <Track attributeKey="Reference sequence" clazz="org.broad.igv.track.SequenceTrack" fontSize="10" id="Reference sequence" name="Reference sequence" sequenceTranslationStrandValue="POSITIVE" shouldShowTranslation="false" visible="true"/>
+        <Track attributeKey="Refseq Genes" clazz="org.broad.igv.track.FeatureTrack" colorScale="ContinuousColorScale;0.0;836.0;255,255,255;0,0,178" displayMode="EXPANDED" fontSize="10" groupByStrand="false" height="239" id="https://hgdownload.soe.ucsc.edu/goldenPath/hg38/database/ncbiRefSeq.txt.gz" name="Refseq Genes" visible="true"/>
+    </Panel>
+    <PanelLayout dividerFractions="0.8123556581986143"/>
+    <HiddenAttributes>
+        <Attribute name="DATA FILE"/>
+        <Attribute name="DATA TYPE"/>
+        <Attribute name="NAME"/>
+    </HiddenAttributes>
+</Session>
